@@ -1,0 +1,5 @@
+This is a simple blockchain written in Javascript. The first version only has the basis the block structure and a hashing function import ref (https://nodejs.org/api/crypto.html)
+It has not yet included proof of work, peer to peer, consensus, checks for sufficient amounts etc
+2018/06/11
+
+
